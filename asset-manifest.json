@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/euro-tours/static/css/main.d9d586c1.css",
+    "main.js": "/euro-tours/static/js/main.2878878b.js",
+    "index.html": "/euro-tours/index.html",
+    "main.d9d586c1.css.map": "/euro-tours/static/css/main.d9d586c1.css.map",
+    "main.2878878b.js.map": "/euro-tours/static/js/main.2878878b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d586c1.css",
+    "static/js/main.2878878b.js"
+  ]
+}
